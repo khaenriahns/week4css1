@@ -1,0 +1,29 @@
+div {
+
+    width: 400px;
+    padding: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    
+    background-color: azure;
+    border: 8px;
+    font-family: cursive;
+
+        .heading {
+            margin: 20px;
+            text-align: center;
+            font-size: larger;
+        }
+        .paragraph {
+            text-align: left;
+        }
+        .button {
+            text-align: center;
+            background-color: blue;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+        }
+}
